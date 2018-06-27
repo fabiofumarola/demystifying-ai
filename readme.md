@@ -18,7 +18,7 @@ The slides are interactive and can be run during the presentation.
   ```
   $pip install -r requirements.txt
   ```
-4. run [jupyter]()
+4. run [jupyter](http://jupyter.org/)
   ```
   $ jupyter notebook
   ```
