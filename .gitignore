@@ -2,3 +2,4 @@
 __pycache__
 models/*
 .DS_Store
+*.h5

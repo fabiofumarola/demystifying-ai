@@ -1,6 +1,6 @@
 # Why Neural Networks
 
-This repository contains all the supporting material for the talk [Cosa Sono queste reti neurali](https://www.facebook.com/pg/sprintlab.it/photos/?tab=album&album_id=187572655263469).
+This repository contains all the supporting material for the talk made at [Apache Spark and More Milano](https://www.meetup.com/Spark-More-Milano/)
 The slides are interactive and can be run during the presentation.
 
 ## Setup
@@ -18,6 +18,12 @@ The slides are interactive and can be run during the presentation.
   ```
   $pip install -r requirements.txt
   ```
+
+4. Install RISE from conda forge
+  ```
+  $conda install -c conda-forge rise
+  ```
+
 4. run the [jupyter](http://jupyter.org/) notebook service
   ```
   $ jupyter notebook
@@ -31,6 +37,8 @@ If you want to get more information about anaconda and jupyter check the [presen
 
 1. [Manning: Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python): really good for a high level introduction of arguments and ideas
 2. [Deep Learning](http://www.deeplearningbook.org/): very good for a deep down
+3. [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+4. [Machine Learning: A Probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)
 
 ### MOOC
 
@@ -42,6 +50,7 @@ If you want to get more information about anaconda and jupyter check the [presen
 1. [model zoo](https://modelzoo.co/)
 2. [tensorflow-hub](https://www.tensorflow.org/hub/)
 3. [tensorflow models](https://github.com/tensorflow/models)
+4. [papers with code](https://paperswithcode.com/)
 
 ### libraries
 
