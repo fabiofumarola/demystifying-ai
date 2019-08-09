@@ -4,7 +4,7 @@ import numpy as np
 
 def strip_consts(graph_def, max_const_size=32):
     """Strip large constant values from graph_def."""
-    strip_def = tf.GraphDef()
+    strip_def = tf.compat.v1.GraphDef()
     for n0 in graph_def.node:
         n = strip_def.node.add()
         n.MergeFrom(n0)

@@ -3,5 +3,6 @@ keras
 pandas
 matplotlib
 numpy
-RISE
+RISE==5.6.0.dev3
 jupyter
+tensorboard

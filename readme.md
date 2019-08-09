@@ -44,6 +44,8 @@ If you want to get more information about anaconda and jupyter check the [presen
 
 1. [coursera deep learning specialization](https://www.coursera.org/specializations/deep-learning)
 2. [MIT intro to deep learning](http://introtodeeplearning.com/index.html)
+3. [Intro to TensorFlow for Deep Learning byTensorFlow](https://eu.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+4. [Intro to Deep Learning with PyTorch byFacebook AI](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
 ### Pretrained Models
 
@@ -57,6 +59,7 @@ If you want to get more information about anaconda and jupyter check the [presen
 1. [keras](https://keras.io/)
 1. [tensorflow](https://www.tensorflow.org/)
 2. [pytorch](https://pytorch.org/)
+
 
 ## Bonus
 
